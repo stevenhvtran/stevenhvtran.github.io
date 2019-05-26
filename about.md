@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is a site where I can write what I want.
+A current Computer Science student studying at Monash University.
