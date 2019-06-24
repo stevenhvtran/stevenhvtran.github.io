@@ -34,7 +34,7 @@ The website for the CTF can be found [here](https://capturetheflag.withgoogle.co
   *Osmium*
 ![Flag 2.0](/assets/google-ctf/flag-2.0.png){: .center-image}
 - After looking around the contents of `init_sat` I realised it was an
-  executable file in Linux, running it on Linux a terminal-like UI
+  executable file in Linux, running it on Linux results in a terminal-like UI
 ![Flag 2.1](/assets/google-ctf/flag-2.1.png){: .center-image}
 - Opening the Google Docs URL leads to a plain document with just some jumble
   of text
