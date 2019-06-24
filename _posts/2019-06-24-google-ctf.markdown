@@ -45,8 +45,8 @@ The website for the CTF can be found [here](https://capturetheflag.withgoogle.co
 - By re-running `init_sat` again with Wireshark open this time we can examine
   network activity and sniff for any calls made by the program on our network
 - After looking around we can find some calls that go to
-  `satellite.competition.com`, by doing `Follow > TCP Stream` we can see what
-  the communications are in plain text
+  `satellite.ctfcompetition.com`, by doing `Follow > TCP Stream` we can see
+  what the communications are in plain text
 ![Flag 2.4](/assets/google-ctf/flag-2.4.png){: .center-image}
 - The flag is finally revealed here
 
